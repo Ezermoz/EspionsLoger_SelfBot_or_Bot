@@ -6,6 +6,6 @@ Bonjour ce script permet de récupérez les logs sur les serveur où vous êtes.
 	/!\ NOT NPM INSTALL !
 	2) Go to config.json and put you token
     (il y a besoin seulement du token le reste tu t'en fout...) Marche avec les token de bot et de compte discord.
-    	3) **VERY IMPORTANT** Create folder named: "espions" !
+    3) VERY IMPORTANT Create folder named: "espions" !
 
 This script is created by Ezermoz, enjoy !
